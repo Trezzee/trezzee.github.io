@@ -1,0 +1,115 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rectangle
+{
+	width: 960px;
+	margin: 20px;
+	text-align: center;
+}
+
+.square
+{
+	width: 50%;
+	float: left;
+}
+
+#logo
+{
+	float: left;
+	font-size: 70px;
+	width: 600px;
+	text-align: left;
+}
+
+.tile1
+{
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #0199ff;
+	float: left;
+}
+
+.tile2
+{
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #666666;
+	float: left;
+}
+
+.tile3
+{
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #99cc00;
+	float: left;
+}
+
+.tile4
+{
+	margin: 10px;
+	width: 480px;
+	height: 142px;
+	background-color: #ff9900;
+	float: left;
+}
+
+.tile5
+{
+	margin: 10px;
+	width: 480px;
+	height: 304px;
+	background-color: #666666;
+	float: left;
+}
+
+.yt
+{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #FF0000;
+	float: left;
+}
+
+.dc
+{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #6699ff;
+	float: left;
+}
+
+.fb
+{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #0066ff;
+	float: left;
+}
+
+.gm
+{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #ff6600;
+	float: left;
+}
+
